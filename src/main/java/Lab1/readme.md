@@ -28,3 +28,7 @@ Program ..Ended ...
 3. Open `mainApp1.java` and run its `main` method.
 
 The compiled `.class` files are tracked for this lab, as requested by the worksheet.
+
+## IntelliJ IDEA screenshot
+
+![Project structure, Java source code and Git commit history](lab1-screenshot.png)
